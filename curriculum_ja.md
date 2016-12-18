@@ -240,13 +240,3 @@ PILEプログラミング入門教育カリキュラム
 ![](./figs/answers/advanced/a4.jpg)
 
 
-
-# 著作権について
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">PILE Project</span> を著作者とするこの 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズの 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>で提供されています。
-商用での利用を検討される場合は， <info@pileproject.com> までご連絡ください。
-
-
-# お問い合わせ先
-この資料についてのご質問やトラブルは以下にご連絡ください。
-
-E-mail: <pile-dev@googlegroups.com>
